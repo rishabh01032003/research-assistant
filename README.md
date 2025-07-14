@@ -67,7 +67,7 @@ smart-assistant-genai/
 ### 🔧 1. Clone the repository
 
 
-git clone https://github.com/rishabh01032003/smart-assistant-genai.git
+git clone https://github.com/rishabh01032003/research-assistant.git
 cd smart-assistant-genai
 📦 2. Install core dependencies
 bash
