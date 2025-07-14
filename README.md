@@ -1,11 +1,15 @@
 ## 📖 Project Description
 
 This tool aims to simplify the reading process of lengthy research documents by providing instant summaries, a question-answer interface, and an interactive "Challenge Me" mode. Whether you're a student, researcher, or professional, this assistant helps you **read less but understand more**.
+
 ## Screenshots
-<img width="1920" height="1020" alt="Screenshot 2025-07-14 094021" src="https://github.com/user-attachments/assets/921c724b-aa9a-437c-884f-4441b49b9b25" />
-<img width="1902" height="1010" alt="Screenshot 2025-07-14 093958" src="https://github.com/user-attachments/assets/951c53f7-e635-446b-b7a9-427ddd6f0771" />
-<img width="1920" height="1020" alt="Screenshot 2025-07-14 093932" src="https://github.com/user-attachments/assets/cecc3e28-a3fb-4266-a851-f914aa07b6bb" />
 <img width="1920" height="1020" alt="Screenshot 2025-07-14 093909" src="https://github.com/user-attachments/assets/da29fe69-a0bf-485a-a7a2-ad57196580cb" />
+
+<img width="1920" height="1020" alt="Screenshot 2025-07-14 093932" src="https://github.com/user-attachments/assets/cecc3e28-a3fb-4266-a851-f914aa07b6bb" />
+
+<img width="1902" height="1010" alt="Screenshot 2025-07-14 093958" src="https://github.com/user-attachments/assets/951c53f7-e635-446b-b7a9-427ddd6f0771" />
+
+<img width="1920" height="1020" alt="Screenshot 2025-07-14 094021" src="https://github.com/user-attachments/assets/921c724b-aa9a-437c-884f-4441b49b9b25" />
 
 
 ## Key goals:
