@@ -2,10 +2,11 @@
 
 This tool aims to simplify the reading process of lengthy research documents by providing instant summaries, a question-answer interface, and an interactive "Challenge Me" mode. Whether you're a student, researcher, or professional, this assistant helps you **read less but understand more**.
 ## Screenshots
-Key goals:<img width="1920" height="1020" alt="Screenshot 2025-07-13 230752" src="https://github.com/user-attachments/assets/00ea40ff-a6f7-4e3c-86d1-5474340623d5" />
+<img width="1920" height="1020" alt="Screenshot 2025-07-13 230752" src="https://github.com/user-attachments/assets/00ea40ff-a6f7-4e3c-86d1-5474340623d5" />
 <img width="1920" height="1020" alt="Screenshot 2025-07-13 230653" src="https://github.com/user-attachments/assets/a0b6edf8-fa9a-4b13-a658-b18e43433e65" />
 <img width="1920" height="1020" alt="Screenshot 2025-07-13 145038" src="https://github.com/user-attachments/assets/7fb3e997-5f9d-4f1f-bac9-165dcc932a4c" />
 
+## Key goals:
 - Improve document comprehension.
 - Reduce manual reading effort.
 - Enable offline GenAI-based assistance without LLM APIs.
